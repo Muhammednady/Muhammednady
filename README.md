@@ -34,10 +34,10 @@
 
 <p align="center">
     <a href="https://github.com/Muhammednady/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MuhammedNady's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAgeeza&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MuhammedNady's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedNady&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/Muhammednady/github-readme-stats"><img alt="MuhammedNady's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmmarAgeeza&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Muhammednady/github-readme-stats"><img alt="MuhammedNady's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MuhammedNady&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/Muhammednady/github-readme-stats"><img alt="MuhammedNady's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedNady&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
@@ -55,7 +55,7 @@
   <a href="mailto:muhammednady49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://mostaql.com/u/ammarageeza/portfolio">
+        <a href="https://mostaql.com/u/MuhammedNady/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
      </a>
      <a href="https://t.me/Muhammed Omar">
@@ -72,7 +72,7 @@
 ## 💜 Views and Followers:
 
 <a href="https://github.com/Muhammednady/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AmmarAgeeza">
+    <img src="https://komarev.com/ghpvc/?username=MuhammedNady">
 </a>
 <a href="https://github.com/Muhammednady?tab=followers"><img src="https://img.shields.io/github/followers/MuhammedNady?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
